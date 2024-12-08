@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  gap: 8px;
+  padding: 12px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.filterButton {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(0, 0, 0, 0.05);
+  border: none;
+  color: #111111;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.filterButton:hover {
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.searchContainer {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(0, 0, 0, 0.03);
+  padding: 0 12px;
+  border-radius: 6px;
+}
+
+.searchInput {
+  flex: 1;
+  background: transparent;
+  border: none;
+  color: #111111;
+  font-size: 14px;
+  padding: 8px 0;
+}
+
+.searchInput::placeholder {
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.searchInput:focus {
+  outline: none;
+}
+
+.filterContainer {
+  position: relative;
+}
