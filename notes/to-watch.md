@@ -1,0 +1,12 @@
+- Silo https://en.wikipedia.org/wiki/Silo_(TV_series)
+- [A Dog's Purpose](https://www.youtube.com/watch?v=gOY_f5EloXo&ab_channel=RelianceEntertainment)
+- red one (christmas movie)
+- planet of the apes
+- school of rock
+- lord of the rings 
+- Perfect days
+- How to make it in America 
+- Oceans eleven
+- gymnastics anime
+- Any Jackie Chan movie
+- Grizzly Man
