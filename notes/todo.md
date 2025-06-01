@@ -1,0 +1,20 @@
+- MAYBE reach out to agu
+- MAYBE buy a new keyboard. maybe [Debashis' keyboard](https://www.moergo.com/collections/glove80-keyboards/products/glove80-split-ergonomic-keyboard-revision-2?variant=47282998739217)
+- MAYBE start tracking events with luma https://lu.ma/user/usr-qXKqODlgQFa97vM
+- MAYBE update the log cli to handle project logging too e.g. I just msg'd vercel guy and want to log it and tag with the relevant project [](logging.md) [](2024-12-17_08-07-12_-0500.md)
+- MAYBE play with developing over ssh to remote server
+- MAYBE refactor my roam notes into my [plaintext notes](./digital-home.md) {upvote: 1}
+- MAYBE ankify my family tree
+- MAYBE Script which adds backlinks to bottom of each page
+- TODO Research stuff around tgi board {due: 2025-02-23}
+- TODO Call Ben 
+- TODO Reach out to Evan Walsh in 6 months {due: 2025-04-28}
+- MAYBE Play with dendron [](./digital-home.md)
+- MAYBE wikilinks in vscode notes. See [here](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes) and [here](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) 
+- MAYBE look up that guy who was into roam but then switched to markdown maximalist. what does he use now? 
+- MAYBE tanha blog post
+- MAYBE https://readmake.com/
+- MAYBE Practical File System Design with the Be File System {due: 2024-11-24, gap: 20} {comment: Recommended by ink and switch Dispatch 006} 
+- MAYBE Sound proof Kevin’s room
+- MAYBE buy guitar
+- MAYBE lock picking
