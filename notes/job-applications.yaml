@@ -1,0 +1,96 @@
+# Job Applications
+
+- company: Anthropic
+  status: hold
+  status_updated: 2024-12-19
+  notes:
+    - Doesn't look like they're hiring remote from Canada
+
+- company: Linear
+  status: preparing-application
+  status_updated: 2024-12-19
+  notes:
+    - Building a project for them
+
+- company: Cloudflare
+  status: hold
+  status_updated: 2024-12-19
+  notes:
+    - No relevant positions right now
+
+- company: Wealthsimple
+  status: hold
+  status_updated: 2024-12-19
+  notes:
+    - No relevant positions right now
+
+- company: Vercel
+  status: networking
+  status_updated: 2024-12-19
+  notes:
+    - Reached out to Ken Lee on linkedin
+
+- company: Sentry
+  position: Senior Software Engineer, Crons & Uptime
+  status: applied
+  date_applied: 2024-12-13
+  cover_letter: ./sentry-cover-letter-2024-12-13.md
+  posting: https://boards.greenhouse.io/sentry/jobs/6309911
+  through: Online application
+
+- company: Top Hat
+  position: Senior Technical Product Manager
+  status: applied
+  date_applied: 2024-12-13
+  cover_letter: ./top-hat-cover-letter-2024-12-13.md
+  posting: https://tophat.com/company/work-with-us/?ashby_jid=780df86a-6def-4c1e-ac29-915db98eea7b
+  through: Online application
+
+- company: Faire
+  position: Senior Full-stack Engineer - Growth
+  status: applied
+  date_applied: 2024-12-13
+  cover_letter: ./faire-cover-letter-2024-12-12.md
+  posting: https://job-boards.greenhouse.io/faire/jobs/7711926002
+  through: Online application
+  notes:
+    - Right after applying I realized it's in-person in kitchener-waterloo. So not really an option. Oh well.
+
+- company: Cast & Crew
+  position: Sr or Lead Front End SW Engineer
+  status: applied
+  date_applied: 2024-12-12
+  posting: https://hirevouch.catsone.com/careers/95532-General/jobs/15797159-Sr-Full-Stack-SW-Eng--JavaScript/
+  through: Shelby Hurlburt (hireVouch)
+
+- company: Chexy
+  position: Sr Full Stack SW Eng - JavaScript
+  status: interviewing
+  date_applied: 2024-12-09
+  posting: https://hirevouch.catsone.com/careers/95532-General/jobs/15797159-Sr-Full-Stack-SW-Eng--JavaScript/
+  through: Shelby Hurlburt (hireVouch)
+
+- company: GitHub
+  position: Software Engineer II
+  status: applied
+  date_applied: 2024-12-11
+  posting: https://www.github.careers/careers-home/jobs/3243?lang=en-us
+  through: Online application
+
+- company: GitLab
+  position: Intermediate Fullstack Engineer - Fulfillment
+  team: Utilization
+  status: rejected
+  date_rejected: 2024-12-05
+  date_applied: 2024-12-02
+  posting: https://about.gitlab.com/jobs/listing/intermediate-fullstack-engineer-fulfillment-utilization/1466606/
+  cover_letter: ./gitlab-cover-letter-2024-12-02.md
+  through: Online application
+
+- company: Stripe
+  position: Frontend Engineer - Payments Optimized Checkout Link
+  status: applied
+  date_applied: 2024-11-29
+  posting: https://stripe.com/jobs/listing/frontend-engineer-payments-optimized-checkout-link/6410218
+  cover_letter: ./stripe-cover-letter-2024-11-29.md
+  through: Online application
