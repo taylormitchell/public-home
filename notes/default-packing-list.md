@@ -1,0 +1,62 @@
+- If warm / sunny: Beach / sun / summer [[Packing List]]
+    - [ ] swim suit
+    - [ ] sunscreen
+    - [ ] flip flops
+    - [ ] water bottle
+    - [ ] tank top
+    - [ ] shorts
+    - [ ] towel?
+- If long trip / need to look good:
+    - [ ] Blow dryer
+    - [ ] Shampoo
+- If flying
+    - [ ] Passport
+    - [ ] Nexus card
+- If Florida / visiting dad  
+    - [ ] Bolo tie 
+- If international trip:
+    - maybe money
+- If outside / campy
+    - [ ] bug spray
+    - [ ] headlamp
+- Check weather
+- [ ] Every day carry
+    - [ ] Phone
+    - [ ] Wallet
+    - [ ] Keys
+    - [ ] Airpods
+    - [ ] [[Physical notepad]]
+- [ ] Toiletry bag
+    - [ ] grab toiletry bag
+    - [ ] add invisalign
+    - [ ] add oura ring
+    - [ ] maybe add laxative 
+    - if the trip is longer than 2 days:
+        - [ ] add shaving stuff
+        - [ ] add soap & shampoo
+    - if flying:
+        - [ ] put liquids in zip lock bag
+- [ ] Electronics
+    - [ ] laptop
+    - [ ] laptop charger
+    - [ ] phone charger
+    - [ ] airpods
+    - [ ] portable battery
+    - [ ] portable battery charger
+- [ ] Rain coat  
+- [ ] Plastic bags
+- [ ] Book
+- [ ] Jeans
+- [ ] Belt
+- [ ] Tshirts
+- [ ] Nice shirt
+- [ ] Sweater
+- [ ] socks and underwear
+- [ ] Sweat pants / shorts
+- [ ] Work out clothes
+- [ ] Running shoes
+- [ ] turn off alarm 
+- [ ] water bottle
+- [ ] iron/steamer
+- [ ] Sun glasses
+- [ ] Hat
