@@ -1,0 +1,2 @@
+- [ ] summarize the week
+- [ ] 
