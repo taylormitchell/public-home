@@ -1,0 +1,3 @@
+- [ ] review [inbox](./inbox-list.md)
+- [ ] review [task lists](./task-list-list.md)
+- [ ] review calendar

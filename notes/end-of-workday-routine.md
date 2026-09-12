@@ -1,0 +1,7 @@
+- [ ] microhit of meditation
+- [ ] any feedback for team members? (put in [[Project/Ideaflow/Ideaflow 1-on-1s]])
+- [ ] clear [](./inbox-list.md)
+- [ ] Planned tomorrow using [](./sketch-out-my-day.md)
+- [ ] Final close down tabs, windows, and apps (Important! Close slack, IDE for work stuff, things3. Anything that can distract me the next morning)
+- [ ] Update slack status
+- [ ] Reflect on the day [](./daily-reflections.md)
