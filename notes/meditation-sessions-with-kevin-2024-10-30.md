@@ -1,0 +1,1 @@
+this week: if have thoughts when coming into practice, have intention to meditate on them. Get into the thinking mode you have momentum on, then try to see/hear/feel them. If they go away, bring them back. If you lose yourself in thought, bring the practice back then bring thoughts back.
