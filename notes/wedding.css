@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "MyCustomName";
+  src: url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+}
+
+* {
+  color: rgb(139, 107, 41);
+}
+
+[data-component="title-banner"] > div > div p {
+  font-family: "MyCustomName", cursive;
+}
+
+div[data-layer="back"],
+div[data-layer="middle"],
+html,
+body,
+#root {
+  background-color: rgb(237, 196, 180);
+}
+
+div[data-layer="middle"] {
+  box-shadow: none;
+}
+
+div[data-component="title-banner"] {
+  background-color: rgb(237, 196, 180);
+}
+
+[data-component="title-banner"]::before {
+  content: ""; /* required for pseudo-elements */
+  position: absolute;
+  top: -40px;
+  left: 150px;
+  width: 150px;
+  height: 150px;
+  z-index: 10;
+  background-image: url(https://withjoy.com/media/ec191d0053f6997a2bc7227d3a8dd833fc03501cdf64affd8/E1B3WYhkScGokFGFmimk_CleanShot%202024-10-29%20at%2019.30.04%402x.jpg?rendition=medium);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+[data-component="title-banner"]::after {
+  content: ""; /* required for pseudo-elements */
+  position: absolute;
+  top: -40px;
+  right: 150px;
+  width: 150px;
+  height: 150px;
+  z-index: 10;
+  background-image: url(https://withjoy.com/media/ec191d0053f6997a2bc7227d3a8dd833fc03501cdf64affd8/E1B3WYhkScGokFGFmimk_CleanShot%202024-10-29%20at%2019.30.04%402x.jpg?rendition=medium);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+[data-component="title-banner"] nav {
+  margin-top: 5rem;
+}

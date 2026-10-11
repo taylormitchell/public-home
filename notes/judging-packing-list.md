@@ -1,0 +1,36 @@
+# Judging Packing List
+- [ ] Street clothes
+- [ ] Attire
+    - [ ] brown shoes
+    - [ ] blue pants
+    - [ ] blue jacket
+    - [ ] white shirt
+    - [ ] tie
+    - [ ] belt
+    - [ ] dress socks
+- Tools
+    - [ ] Laptop
+    - [ ] Laptop charger
+    - [ ] Phone charger
+    - [ ] Pens
+    - [ ] Pencil
+    - [ ] Pencil sharpener
+    - [ ] Paper
+    - [ ] Measuring tape
+    - [ ] Athletic tape
+- Documents
+    - [ ] Offline copies of rules
+    - [ ] File folder for routines
+    - [ ] Paper
+    - [ ] Marked up athlete lists from last competition
+    - [ ] Physical list of things to improve on this competition
+    - [ ] Physical empty list to note things to improve on later
+- [Every day carry]([[Packing List]])
+- Toiletry [[Packing List]]
+    - [ ] advil
+    - [ ] gatorade and/or electrolyte packets
+    - [ ] red bull
+    - [ ] shaving stuff
+- [ ] On first paper in file folder, remind myself to review Head judge checklist #roam/templates, How to judge a routine, and notes from last comp
+- [ ] water bottle
+- [ ] a bottle of liquor for judging
