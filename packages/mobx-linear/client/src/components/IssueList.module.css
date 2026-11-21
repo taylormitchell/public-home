@@ -1,0 +1,153 @@
+.container {
+  padding: 20px;
+  color: #111111;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.headerLeft {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.headerLeft h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.issueCount {
+  background: rgba(0, 0, 0, 0.05);
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 13px;
+}
+
+.createButton {
+  background: #5e6ad2;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.createButton:hover {
+  background: #4f58b6;
+}
+
+.list {
+  flex: 1;
+  flex-basis: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.issueRow {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  background: var(--bg-secondary);
+  gap: 12px;
+  cursor: pointer;
+  position: relative;
+  border: 1px solid var(--border-color);
+}
+
+.issueRow:hover {
+  background: var(--bg-secondary-hover);
+}
+
+.issueStatus {
+  color: #5e6ad2;
+  font-size: 12px;
+}
+
+.issueTitle {
+  flex: 1;
+  color: var(--text-primary);
+  font-size: 14px;
+  padding: 4px;
+  border-radius: 4px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.issueTitle:focus {
+  background: var(--bg-secondary-hover);
+  outline: none;
+}
+
+.issueMetadata {
+  display: flex;
+  gap: 8px;
+}
+
+.priority,
+.label,
+.status {
+  font-size: 12px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.priority {
+  color: #f2994a;
+}
+
+.label {
+  color: #5e6ad2;
+}
+
+.status {
+  color: #27ae60;
+}
+
+.deleteButton {
+  opacity: 0;
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.issueRow:hover .deleteButton {
+  opacity: 0.5;
+}
+
+.deleteButton:hover {
+  opacity: 1 !important;
+  background: var(--bg-secondary-hover);
+}
+
+.dragHandle {
+  cursor: grab;
+  padding: 0 8px;
+  color: #666;
+  user-select: none;
+}
+
+.isDragging {
+  opacity: 0.5;
+}
+
+.issueRow[data-is-over="true"] {
+  opacity: 0.5;
+}
